@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dfa700b-fddc-42f6-96e9-1938618a52ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zoo.java" afterDir="false" />
+    <list default="true" id="3dfa700b-fddc-42f6-96e9-1938618a52ad" name="Changes" comment="Finished Animal Started Zoo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +23,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GiulianoDF17"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GiulianoDF17/Assignment1_Prog2.git",
+    "accountId": "852c1dbc-b438-47ea-84b7-effa18786846"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -85,7 +100,71 @@
       <updated>1772154822150</updated>
       <workItem from="1772154824221" duration="10000" />
     </task>
+    <task id="LOCAL-00001" summary="Finished Animal Started Zoo">
+      <option name="closed" value="true" />
+      <created>1772159003845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772159003845</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished Animal Started Zoo">
+      <option name="closed" value="true" />
+      <created>1772159010274</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772159010274</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished Animal Started Zoo">
+      <option name="closed" value="true" />
+      <created>1772159019954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772159019954</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finished Animal Started Zoo">
+      <option name="closed" value="true" />
+      <created>1772159055560</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772159055560</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finished Animal Started Zoo">
+      <option name="closed" value="true" />
+      <created>1772159063684</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772159063684</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finished Animal Started Zoo">
+      <option name="closed" value="true" />
+      <created>1772159142878</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772159142878</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished Animal Started Zoo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Animal Started Zoo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

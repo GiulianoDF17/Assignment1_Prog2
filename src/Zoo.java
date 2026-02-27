@@ -39,7 +39,46 @@ public class Zoo {
     }
 
     public void updateValidTypes(){
+        for(int i = 0; i < Animal.TYPES.size(); i++){
 
+            String type = Animal.TYPES.get(i);
+            boolean exists = false;
+
+            for(int j  = 0; j < animals.size(); j++){
+                if(animals.get(j).getType().equals(type)){
+                    exists = true;
+                }
+            }
+
+            if(!exists){
+                Animal.TYPES.remove(i);
+                i--;
+            }
+        }
+    }
+
+    public boolean isGenderBalanced(String type){
+
+        int males = 0;
+        int females = 0;
+
+        for(int i = 0; i < animals.size(); i++){
+            if(animals.get(i).getType().equals(type)){
+                if(animals.get(i).getGender().equalsIgnoreCase("Male"))
+                    males++;
+                else if(animals.get(i).getGender().equalsIgnoreCase("Female"))
+                    females++;
+            }
+        }
+
+        int total  = males + females;
+
+        if(total == 0)
+            return false;
+
+        int difference = Math.abs(males-females);
+
+        return difference < 0.2 * total;
     }
 
 
